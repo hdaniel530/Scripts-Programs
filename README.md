@@ -1,3 +1,3 @@
 # practice
-Testing the functionalities
+Testing the functionalities\n
 Hello World!

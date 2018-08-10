@@ -1,3 +1,3 @@
 # practice
-Testing the functionalities/n
-Hello World!
+Testing the functionalities
+print("Hello World!")

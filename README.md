@@ -1,3 +1,3 @@
 # practice
 Testing the functionalities
-print("Hello World!")
+Hello World

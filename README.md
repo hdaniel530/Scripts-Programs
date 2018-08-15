@@ -7,6 +7,3 @@ Within this repository, there exists a compilation of various codes written in l
 
 	3.Java
 
-	4.Javascript
-
-
